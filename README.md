@@ -8,7 +8,19 @@ This repository contains a comprehensive analysis of retail sales data from a fi
 
 - **Programming Language:** Python  
 - **Libraries:** Pandas, Matplotlib, Seaborn  
-- **Development Environment:** Jupyter Notebook  
+- **Development Environment:** Jupyter Notebook
+- **Visualization Tool:** PowerBI
+
+---
+
+## Dataset  
+
+The dataset includes the following columns:  
+- **Order Details:** Row ID, Order ID, Order Date, Ship Date  
+- **Customer Details:** Customer ID, Customer Name, Segment  
+- **Product Details:** Product ID, Category, Sub-Category, Product Name  
+- **Sales Metrics:** Sales, Quantity, Discount, Profit  
+- **Shipping Details:** Ship Mode, Region  
 
 ---
 
@@ -67,13 +79,3 @@ The dataset revealed consistent growth in sales and profit over the years, with 
 
 ---
 
-## Dataset  
-
-The dataset includes the following columns:  
-- **Order Details:** Row ID, Order ID, Order Date, Ship Date  
-- **Customer Details:** Customer ID, Customer Name, Segment  
-- **Product Details:** Product ID, Category, Sub-Category, Product Name  
-- **Sales Metrics:** Sales, Quantity, Discount, Profit  
-- **Shipping Details:** Ship Mode, Region  
-
----
