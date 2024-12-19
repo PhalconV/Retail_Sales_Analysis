@@ -1,4 +1,4 @@
-# Retail Sales Analysis 📊  
+# Retail Sales Analysis
 
 This repository contains a comprehensive analysis of retail sales data from a fictional Superstore. The analysis aims to provide actionable insights into sales performance, customer behavior, regional trends, and operational efficiencies. It also includes recommendations to optimize profitability and enhance business operations.
 
